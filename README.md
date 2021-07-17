@@ -9,7 +9,7 @@ You have an option to access 3 files namely : index.html, index.css and index.js
 
 INSTALLATION GUIDE :
 
-1) Clone the GIT Repository or download it as a ZIP file : 
+1) Clone the GIT Repository or download it as a ZIP file : https://github.com/HENIL-SATRA/DYTE_EDITOR_18BCE2281.git
 
 2) Open command prompt and locate the downloaded git folder usind cd commands.
 
