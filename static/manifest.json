@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	"name": "DYTE Editor",
+	"version": "1.0.0",
+	"description": "DYTE Editor",
+	"browser_action": {
+		"default_icon": "images/editor.png"
+	},
+	"devtools_page": "index.html",
+	"content_security_policy": "script-src 'unsafe-inline'; object-src 'self';"
+}
