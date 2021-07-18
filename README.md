@@ -1,4 +1,4 @@
-# DYTE_EDITOR_18BCE2281
+# DYTE CODE EDITOR
 This is an Online Code Editor for HTML, CSS and JavaScript
                                                            
  DYTE ONLINE EDITOR
