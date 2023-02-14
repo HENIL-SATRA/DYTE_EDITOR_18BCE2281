@@ -1,7 +1,5 @@
 # ONLINE CODE EDITOR
-This is an Online Code Editor for HTML, CSS and JavaScript
-                                                           
- DYTE ONLINE EDITOR
+This is an Online Code Editor for HTML, CSS and JavaScript       
                                                                        
 ![Capture](https://user-images.githubusercontent.com/53400949/126042640-69fc3692-896d-4a0e-9cab-28aa77688767.JPG)
 
